@@ -1,0 +1,3 @@
+[bindings.swift]
+omit_checksums = true #忽略校验
+ffi_module_filename = "module"
